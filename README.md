@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # Hello World!, I'm Ankit Kumar, a  Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>
 
 
 # 💻 Tech Stack:
